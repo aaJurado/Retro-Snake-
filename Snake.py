@@ -7,7 +7,7 @@ import pygame
 
 # ============================================================
 # Retro Snake Arcade
-# Author: Axel Lucero
+# Author: Axel Jurado
 # Description:
 # A retro-style Snake game built with Python and pygame.
 # Features include a start menu, difficulty selection,
